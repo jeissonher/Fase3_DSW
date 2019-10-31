@@ -15,20 +15,20 @@ footer{
     background-color: rgb(0, 88, 131);
 }
 article {
-    background-color: rgb(231, 222, 222);
+    background-color: rgb(179, 179, 179);
 }
 header{
     background-color: rgb(0, 88, 131);
 }
 .principal{
-    background-color: rgb(41, 112, 45);
+    background-color: rgb(179, 179, 179);
     display: inline-block;
     width: 65%;
     vertical-align: top;
 
 }
 aside{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(240, 180, 41);
     display: inline-block;
     width: 28%;
 }
