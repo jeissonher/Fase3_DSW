@@ -29,6 +29,7 @@ header{
 }
 .principal{
     background-color: rgb(179, 179, 179);
+    
 }
 section{
     background-color: rgb(179, 179, 179);
@@ -36,7 +37,7 @@ section{
     margin-left: 67px;
     max-width: 60%;
     border-radius: 0.3em;
-    min-height: 600px;
+    min-height: 900px;
 }
 aside{
     background-color: rgb(240, 180, 41);
@@ -46,6 +47,7 @@ aside{
     margin-right: 67px;
     text-align: center;
     border-radius: 0.3em;
+    
 }
 /* Menu */
 .menu li{
