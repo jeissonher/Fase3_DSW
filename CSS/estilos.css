@@ -83,7 +83,7 @@ li a, btnDesplegable{
 .contenidoDesplegable{
     display:none;
     position: absolute;
-    background-color: cornsilk;
+    background-color: rgb(128, 128, 128);
     min-width: 8em;
 }
 .contenidoDesplegable a{
@@ -93,12 +93,12 @@ li a, btnDesplegable{
     text-align: left;
 }
 .contenidoDesplegable a:hover{
-    background-color: darkcyan;
+    background-color: rgb(240, 195, 89);
 }
 .desplegable:hover .contenidoDesplegable{
     display: block;
 }
 li a:hover{
-   background-color: brown; 
+   background-color: rgb(240, 195, 89); 
 }
 
