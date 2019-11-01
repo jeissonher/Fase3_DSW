@@ -102,3 +102,9 @@ li a:hover{
    background-color: rgb(240, 195, 89); 
 }
 
+#imagen{
+    align=""left"
+   }
+   #titulo{
+    align="rigth"
+   }
