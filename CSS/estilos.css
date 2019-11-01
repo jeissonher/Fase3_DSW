@@ -67,7 +67,9 @@ aside{
     margin: 10px;
     width: 100%;    
 }
-
+#video{
+    text-align: center;
+}
 .menu li{
     display: inline-block;
 }
