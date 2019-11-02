@@ -101,3 +101,8 @@ li a, btnDesplegable{
 li a:hover{
    background-color: rgb(240, 195, 89); 
 }
+
+#buscar{
+
+    align="right"
+}
