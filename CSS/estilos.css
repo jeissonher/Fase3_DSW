@@ -1,11 +1,27 @@
- .contenedor, article, header
+ .contenedor, article
     {
      max-width: 90%;
      margin: auto;
      text-align: center;
      border-radius: 0.3em;
     }
- 
+header{
+    background-color: rgb(0, 88, 131);
+    max-width: 90%;
+    margin: auto;
+    border-radius: 0.3em; 
+}
+#imagen{
+    margin-left: 5px;
+}
+#titulo{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    width: 20%;
+    text-align: center;
+    right: 120px;
+    top: 15px;
+}
 nav{
     background-color: rgb(244, 121, 32);
     max-width: 90%;
@@ -15,7 +31,7 @@ nav{
 #buscar{
     position: absolute;
     right: 160px;
-    top: 192px;
+    top: 155px;
 }
 #navegacion{
     margin-left: 100px;
@@ -35,9 +51,7 @@ article {
     background-color: rgb(179, 179, 179);
     
 }
-header{
-    background-color: rgb(0, 88, 131);
-}
+
 .principal{
     background-color: rgb(179, 179, 179);
     
