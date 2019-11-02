@@ -1,4 +1,4 @@
- nav, .contenedor, article, header
+ .contenedor, article, header
     {
      max-width: 90%;
      margin: auto;
@@ -8,6 +8,17 @@
  
 nav{
     background-color: rgb(244, 121, 32);
+    max-width: 90%;
+    margin: auto;
+    border-radius: 0.3em;
+}
+#buscar{
+    position: absolute;
+    right: 160px;
+    top: 192px;
+}
+#navegacion{
+    margin-left: 100px;
 }
 .contenedor{
     background-color: blueviolet;
@@ -33,12 +44,12 @@ header{
 }
 section{
     background-color: rgb(179, 179, 179);
-    
     margin-left: 60px;
     max-width: 60%;
     border-radius: 0.3em;
     min-height: 900px;
 }
+
 aside{
     background-color: rgb(240, 180, 41);
     margin: 10px;
@@ -100,9 +111,4 @@ li a, btnDesplegable{
 }
 li a:hover{
    background-color: rgb(240, 195, 89); 
-}
-
-#buscar{
-
-    align= right: ;
 }
