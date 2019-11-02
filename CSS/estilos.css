@@ -51,7 +51,7 @@ aside{
     background-color: rgb(255, 255, 255);
     margin: 10px;
 }
-#derecho /*aside*/{
+#derecho {
     background-color: rgb(255, 255, 255);
     float: right;
     width: 29%;
@@ -78,7 +78,7 @@ li a, btnDesplegable{
     color: beige;
     padding: 0.9em 1em;
     text-align: center ;
-    text-decoration:none ;
+    text-decoration: none;
 }
 .contenidoDesplegable{
     display:none;
@@ -101,10 +101,3 @@ li a, btnDesplegable{
 li a:hover{
    background-color: rgb(240, 195, 89); 
 }
-
-#imagen{
-    align="left"
-   }
-   #titulo{
-    align="right;"
-   }
